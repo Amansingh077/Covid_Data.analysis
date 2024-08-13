@@ -1,7 +1,5 @@
 # 🦠 COVID-19 Data Analysis and Visualization
 
-![COVID-19 Dashboard](link_to_your_dashboard_screenshot)
-
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
