@@ -24,9 +24,9 @@ This project is focused on analyzing COVID-19 data using Python and visualizing 
 -Seaborn
 -plotly
 
-### Power BI: For interactive dashboard creation.
-### Jupyter Notebook: For running and sharing Python scripts.
-### Git: For version control and collaboration.
+* Power BI:* For interactive dashboard creation.
+* Jupyter Notebook:* For running and sharing Python scripts.
+** Git: **For version control and collaboration.
 
 ## 📊 Data Source
 The data utilized in this project is sourced from the Johns Hopkins University COVID-19 Data Repository, which provides daily updates on COVID-19 cases, deaths, and recoveries globally.
