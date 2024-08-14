@@ -22,6 +22,7 @@ This project is focused on analyzing COVID-19 data using Python and visualizing 
   - NumPy
   - Matplotlib
   - Seaborn
+  - plotly
 - **Power BI**: For interactive dashboard creation.
 - **Jupyter Notebook**: For running and sharing Python scripts.
 - **Git**: For version control and collaboration.
