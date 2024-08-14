@@ -28,7 +28,7 @@ This project is focused on analyzing COVID-19 data using Python and visualizing 
 - **Git**: For version control and collaboration.
 
 ## 📊 Data Source
-The data utilized in this project is sourced from the [Johns Hopkins University COVID-19 Data Repository](https://github.com/CSSEGISandData/COVID-19), which provides daily updates on COVID-19 cases, deaths, and recoveries globally.
+The data utilized in this project is sourced from the [kaggle.com](https://www.kaggle.com/datasets/imdevskp/corona-virus-report).
 
 ## 🛠️ Data Preprocessing
 The raw data underwent several preprocessing steps to ensure accuracy and consistency:
