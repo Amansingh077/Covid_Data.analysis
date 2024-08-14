@@ -90,5 +90,5 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
 ## 🙏 Acknowledgements
-- **Johns Hopkins University**: For the invaluable COVID-19 data.
+- **kaggle.com**: For the invaluable COVID-19 data.
 - **Open-Source Community**: For the tools and resources that made this project possible.
