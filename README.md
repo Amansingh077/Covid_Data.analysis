@@ -50,7 +50,6 @@ The Power BI dashboard offers an interactive and user-friendly interface to expl
 - **Country-Specific Analysis**: Dive into the data of individual countries.
 - **Key Statistics**: Highlight crucial metrics and insights.
 
-### [🔗 View the Power BI Dashboard](link_to_dashboard_if_hosted_online)
 
 ## 🛠️ Installation & Usage
 To run this project locally, follow these steps:
